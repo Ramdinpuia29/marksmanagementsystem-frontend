@@ -1,0 +1,11 @@
+.staffstable {
+  display: flex;
+  flex-direction: column;
+  padding-top: 0.5em;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.5em 1em;
+}
